@@ -22,7 +22,7 @@ Starting nodedocker_mongodb_1 ... done
 Starting nodedocker_app_1 ...
 Starting nodedocker_app_1 ... done
 ```
-
+test case 1
 The application will be avaible on *PORT 3000* by default, but it's configurable via `docker-compose.yml` file as an environment variable.
 
 ### Running the application in development mode
