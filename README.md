@@ -43,4 +43,5 @@ To run the tests using docker you just have to run the following command:
 docker-compose -f docker-compose.test.yml up
 ```
 
-And then all tests will be ran and the status exit code will be 0 or 1 that means true or false.
+And then all tests will be ran and the status exit code will be 0 or 1 that means true or
+run the test case and push ti docker hub.
